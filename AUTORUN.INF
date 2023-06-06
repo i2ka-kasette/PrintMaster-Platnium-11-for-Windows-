@@ -1,0 +1,9 @@
+[autorun]
+open=setup\autorun\autorun.exe
+icon=setup\autorun\pmaster.ico
+shell\applet = &AutoPlay Dialog
+shell\applet\command = Setup\autorun\autorun.exe /s
+shell\install = &Install PrintMaster
+shell\install\command = setup.exe
+
+
